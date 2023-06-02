@@ -1,0 +1,41 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\data_format.h(37,8): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(25,19): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(28,15): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(29,21): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(30,26): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(292,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(293,11): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(297,15): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(298,15): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(305,17): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(306,22): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(307,32): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(314,17): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(315,17): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(318,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(319,16): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(329,23): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(330,28): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(331,38): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(339,14): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(343,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(356,45): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(410,27): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(411,72): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(413,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(432,39): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(433,95): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(435,1): warning C4305: '+=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(445,71): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(446,71): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(454,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(466,15): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(483,50): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(485,43): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(547,23): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(644,21): warning C4553: '==': 未使用運算式結果; 您是否想要 '='?
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(659,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\Form1.h(662,1): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  AssemblyInfo.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  New Final.vcxproj -> C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\x64\Debug\New Final.exe

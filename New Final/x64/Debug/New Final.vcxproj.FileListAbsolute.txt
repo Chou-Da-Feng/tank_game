@@ -1,0 +1,16 @@
+D:\C\New Final\New Final\x64\Debug\New Final.vcxproj.AssemblyReference.cache
+D:\C\New Final\New Final\x64\Debug\New Final.vcxproj.SuggestedBindingRedirects.cache
+D:\C\New Final\New Final\x64\Debug\New_Final.Form1.resources
+D:\C\New Final\New Final\x64\Debug\New Final.vcxproj.GenerateResource.cache
+C:\Users\david\Downloads\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.AssemblyReference.cache
+C:\Users\david\Downloads\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\Downloads\New_Final (2)\New Final\New Final\x64\Debug\New_Final.Form1.resources
+C:\Users\david\Downloads\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.GenerateResource.cache
+C:\Users\david\Downloads\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.AssemblyReference.cache
+C:\Users\david\Downloads\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\Downloads\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New_Final.Form1.resources
+C:\Users\david\Downloads\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.GenerateResource.cache
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.AssemblyReference.cache
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New_Final.Form1.resources
+C:\Users\david\OneDrive\桌面\New_Final_3\New_Final (2)\New Final\New Final\x64\Debug\New Final.vcxproj.GenerateResource.cache
